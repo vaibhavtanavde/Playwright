@@ -7,6 +7,8 @@ Install Nodejs from https://nodejs.org/en/download/prebuilt-installer
 
 Create a folder on computer with name Playwright
 
+Install playwright using command: npx playwright install
+
 Run command: set APP_LANGUAGE=de   //This command should only be ran when website is converted into German
 
 Run the test using command: npx playwright test
